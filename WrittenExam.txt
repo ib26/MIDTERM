@@ -1,0 +1,21 @@
+1.	Keep It Simple, Stupid:  So other programers can understand your code	
+2.	Don.t Repeat Yourself: To keep the maintaining simple, so you can change only once.
+3.	The advantage of Mongo is that you can query more like a regular program language. The data does not have to be structured as precise as sql. You don.t need a bridge table in order to get information out of two tables.
+4.	Write a function that takes  3 parameters. The first will be a the tag, the second will be for the attributes ant the third will be for the content. The function will have afor loop that will extract the key and values of the array and concatenate the html tag. 
+5.	S
+6.	GIT 
+7.	It is a version control system, I used it in class when created a File system program as a team, it helped us track the changes and who contributed what.
+8.	Mkdir {name of directory}
+9.	Git init, git add ---
+10.	  git commit -m 'first commit'
+11.	  git remote add origin git@github.com:ib26/MIDTERM.git
+12.	  git push -u origin master
+13.	Through out our MIS course at NJIT we had several team Projects. We di software requirements and we created a web based file/system program.
+14.	Vi {fileName}
+15.	Chmod
+16.	Putty
+17.	It is a function that operates immediately when the object is instanciated. It will be used when you want to have a program execute every time it runs.
+18.	Class is the definition and code. Object is when create an object(copy) of the class with all it.s functions and attributes.
+19.	So it will be reusable and other programmers can understand it.
+20.	Comment  code, work in groups, analytical.
+
