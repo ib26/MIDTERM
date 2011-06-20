@@ -1,5 +1,7 @@
 
-n articlewriter($article) {
+<?php 
+
+function articlewriter($article) {
     
 	try{
 			if(!is_array($article)){
@@ -49,5 +51,6 @@ n articlewriter($article) {
 $article1 = array('title' => 'my article title', 'body' => 'lorem ipsum');
  articlewriter($article1);
 ?>
+
 
 
